@@ -1,0 +1,1 @@
+.\nand2tetris\tools\CPUEmulator.bat
